@@ -23,7 +23,7 @@ HOST,analytics.strava.com,Direct
 HOST,app.adjust.com,Direct
 HOST,app.appsflyer.com,Direct
 HOST,bdtj.tagtic.cn,Direct
-HOST,cdn.jsdelivr.net,香港节点
+# 原来直连不可用HOST,cdn.jsdelivr.net,香港节点
 HOST,clientservices.googleapis.com,Direct
 HOST,deo.shopeemobile.com,Direct
 HOST,dl.google.com,Direct
